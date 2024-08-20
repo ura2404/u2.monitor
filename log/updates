@@ -1,0 +1,41 @@
+2024-08-20 10:26
+U2\Tg\Update Object
+(
+    [Id] => 108782486
+    [Message] => U2\Tg\Message Object
+        (
+            [Id] => 277
+            [From] => U2\Tg\User Object
+                (
+                    [Id] => 516026037
+                    [IsBot] => 
+                    [FirstName] => Юрий
+                    [LastName] => Подковалихин
+                    [UserName] => Ura2404
+                )
+
+            [Chat] => U2\Tg\Chat Object
+                (
+                    [Id] => 516026037
+                    [Type] => private
+                    [Title] => 
+                    [IsForum] => 
+                    [User] => U2\Tg\User Object
+                        (
+                            [Id] => 516026037
+                            [IsBot] => 
+                            [FirstName] => Юрий
+                            [LastName] => Подковалихин
+                            [UserName] => Ura2404
+                        )
+
+                )
+
+            [Date] => 2024-08-20 07:26:58
+            [Text] => wefwefwefwefwfe
+            [Entities] => 
+            [ReplyMarkup] => 
+        )
+
+    [CallbackQuery] => 
+)

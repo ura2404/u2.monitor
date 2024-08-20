@@ -1,0 +1,80 @@
+{
+    "keyboard1": [
+        [
+            {
+                "text": "1",
+                "callback_data": "k=1"
+            },
+            {
+                "text": "2",
+                "callback_data": "k=2"
+            },
+            {
+                "text": "3",
+                "callback_data": "k=3"
+            }
+        ],
+        [
+            {
+                "text": "4",
+                "callback_data": "k=4"
+            },
+            {
+                "text": "5",
+                "callback_data": "k=5"
+            },
+            {
+                "text": "6",
+                "callback_data": "k=6"
+            }
+        ],
+        [
+            {
+                "text": "7",
+                "callback_data": "k=7"
+            },
+            {
+                "text": "8",
+                "callback_data": "k=8"
+            },
+            {
+                "text": "9",
+                "callback_data": "k=9"
+            }
+        ],
+        [
+            {
+                "text": "0",
+                "callback_data": "k=0"
+            }
+        ],
+        [
+            {
+                "text": "Назад",
+                "callback_data": "/back"
+            }
+        ]
+    ],
+    "keyboard2": [
+        [
+            {
+                "text": "1",
+                "callback_data": "ak=1"
+            },
+            {
+                "text": "2",
+                "callback_data": "ak=2"
+            },
+            {
+                "text": "3",
+                "callback_data": "ak=3"
+            }
+        ],
+        [
+            {
+                "text": "Назад",
+                "callback_data": "/back"
+            }
+        ]
+    ]
+}

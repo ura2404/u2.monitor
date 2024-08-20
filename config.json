@@ -1,0 +1,9 @@
+{
+    "botId": "u2monitor_bot",
+    "description": "Monitoring hosts and services",
+    "webhookUrl": "https://monitor.u2.urx.su/webhook.go",
+    "telegramToken": "7180604882:AAGYMhCo3w78qQFikQeUSfOs3DKhRFshhxk",
+    "secretToken": "13cceaa37eaa272fdbeb000319b5abaa-9ce8bdf4faa9678eee78a8cc0524f59e",
+    "isWebHook": true,
+    "lastUpdateId": 795723726
+}
