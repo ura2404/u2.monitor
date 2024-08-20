@@ -1,10 +1,10 @@
-2024-08-20 10:26
+2024-08-20 13:55
 U2\Tg\Update Object
 (
-    [Id] => 108782486
+    [Id] => 108782495
     [Message] => U2\Tg\Message Object
         (
-            [Id] => 277
+            [Id] => 291
             [From] => U2\Tg\User Object
                 (
                     [Id] => 516026037
@@ -31,9 +31,19 @@ U2\Tg\Update Object
 
                 )
 
-            [Date] => 2024-08-20 07:26:58
-            [Text] => wefwefwefwefwfe
-            [Entities] => 
+            [Date] => 2024-08-20 10:55:13
+            [Text] => /start
+            [Entities] => Array
+                (
+                    [0] => Array
+                        (
+                            [offset] => 0
+                            [length] => 6
+                            [type] => bot_command
+                        )
+
+                )
+
             [ReplyMarkup] => 
         )
 

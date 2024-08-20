@@ -3,7 +3,7 @@
     "description": "Monitoring hosts and services",
     "webhookUrl": "https://monitor.u2.urx.su/webhook.go",
     "telegramToken": "7180604882:AAGYMhCo3w78qQFikQeUSfOs3DKhRFshhxk",
-    "secretToken": "13cceaa37eaa272fdbeb000319b5abaa-9ce8bdf4faa9678eee78a8cc0524f59e",
+    "secretToken": "dc099ffa6941ca6ee7782267496ad7ba-f63ca2c9a0c5bb38073a7719b0828409",
     "isWebHook": true,
     "lastUpdateId": 795723726
 }
