@@ -1,0 +1,9 @@
+{
+    "botId": "u2monitor_bot",
+    "description": "Monitoring hosts and services",
+    "webhookUrl": "https://webhook",
+    "telegramToken": "XXXX",
+    "secretToken": "YYYY",
+    "isWebHook": true,
+    "lastUpdateId": 795723726
+}
